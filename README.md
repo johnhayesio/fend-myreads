@@ -7,7 +7,7 @@ A [React.js](https://github.com/johnhayesio/fend-myreads) bookshelf app that all
 1. To install the application clone this git repository
 
 ```
-$ git clone https://github.com/johnhayesio/fend-myreads.git myreads
+$ git clone https://github.com/johnhayesio/fend-myreads.git
 ```
 
 2. Go into the application folder
